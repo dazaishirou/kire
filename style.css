@@ -20,7 +20,7 @@ body {
 .nav-toggle {
   position: absolute; /* 1 */
   left: 100%; /* 2 */
-  top: 20;
+  top: 20%;
   
   padding: 0.5em;  
   background: inherit;
